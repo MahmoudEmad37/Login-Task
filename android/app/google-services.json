@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "607150132370",
+    "project_id": "logintask-dcfa8",
+    "storage_bucket": "logintask-dcfa8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607150132370:android:0f7e1df94c2e176c312a4b",
+        "android_client_info": {
+          "package_name": "com.example.login_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmXOstiNb9Cr0PYUALEgqvaevhcTRenic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
